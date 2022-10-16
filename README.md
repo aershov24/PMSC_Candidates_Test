@@ -1,14 +1,15 @@
 ![](https://user-images.githubusercontent.com/13550565/196062250-a0ba57d3-a388-466f-91d4-949f2067e7a4.png)
 
-# Welcome to FullStack.Cafe Candidates Repo
+# Welcome to PMStack.Cafe Candidates Repo
 
-Please read this document carefully before submitting your FSC candidate challenge.
+Please read this document carefully before submitting your PMSC candidate challenge.
 
 # What Do You Need to Do?
 
 * Carefully read the `README.md`
 * **Fork** this repository
-* Create the `RUST_youremail.md` Markdown file in the forked repo and add **`3` questions and answers (QAS) relevant to _Rust Programming Language topic_ that you would ask on a real interview** if you would hire a Rust Developer for your own project. All content must be formatted as Markdown (see examples below).
+* Create the `Scrum_youremail.md` Markdown file in the forked repo and add **`3` questions and answers (QAS) relevant to _Scrum topic_ that you would ask on a real interview** if you need to hire a Senior **Scrum Master** for your own team. Add QAS formatted as Markdown into the `Scrum_youremail.md` file.
+* All content must be formatted as valid Markdown (see examples below).
 * Make sure you'll add:
   * one **Junior** question for **Junior** position
   * one **Medium** difficulty question for **Mid** position, and
@@ -17,11 +18,11 @@ Please read this document carefully before submitting your FSC candidate challen
 * Make sure that for all QAs you'll include:
   * Question **Title**
   * Question **Description** (optional)
-  * **Answer** (required) + `Code` (if needed)
+  * **Answer** (required)
   * Link(s) to **Source**s (you don't need to write answer by yourself, just combine and research best sources that are available)
   * QA **Difficulty** Level. Use that Difficulty enum: [`entry`, `junior`, `mid`, `senior`, `expert`]
 * Look at the `QAS_Examples.md` file in this repo for examples of QAS file formatting in Markdown. Use this file as a template for your submission. Please strictly follow these formatting conventions. This is **the key** to pass the challenge ;)
-* Create a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) from your repo into the FSC Candidates repo. Name the PR as `RUST | youremail`. PRs with different names will be rejected.
+* Create a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) from your repo into the PMSC Candidates repo. Name the PR as `SCRUM | youremail`. PRs with different names will be rejected.
 * Send us email or DM us on UpWork when you happy us to verify it
 
 # How To Choose/Write Good Interview Questions
@@ -29,17 +30,15 @@ Please read this document carefully before submitting your FSC candidate challen
 When choosing a good interview question follow these rules:
 
 * The QA should not be too **broad** or too **obvious/trivial**, like:
-  * 🚫 `What is Rust?`
+  * 🚫 `What is Scrum?`
+  * 🚫 What does a scrum master do all day?
 * The QA should be **opened** and invite the candidate for a conversation rather than strictly test his/her/their specific knowledge. Compare:
-  * 🚫 What is `enum` in Rust?
-  * ✅ Provide an example when you would use `enum` in Rust 
-  * ✅ What does the `static` keyword mean? Can you _override_ `private` or `static` method in Rust?
+  * 🚫 What is `sprint` in Scrum?
+  * ✅ Provide some ways to fit _bug fixing_ into a Scrum process
+  * ✅ What is the difference between _Sprint_ and _Iteration_ in Scrum and _length_ of each Sprint?
 * Keep the answers **short**, **succinct** and **informative**. If you feel your answer is growing in size and covers different topics the split it!
 * Avoid  highly practical questions like
-  * 🚫 How to install Rust? - we won't accept that type of questions
-* Don't submit questions related to a personal candidate experience. These questions are valid on an interview but won't fit to the format of FSC like:
-  *  🚫 Have you ever worked with `Borsch` in Rust?
-  *  🚫 Describe your experience building `SPL Tokens` using Rust on your previous job?
+  * 🚫 How best to do Agile Development MS Project? - we won't accept that type of questions
 * Don't submit behavioral questions like:
   * 🚫 Describe your strengths and weakness, and so on
 * Use that that types of questions:
@@ -53,7 +52,7 @@ When choosing a good interview question follow these rules:
   * ✅ `What is example of Y in real life?`
   * ✅ `Provide an intuitive explanation of X`
 * The best **rule of thumb** to follow is
-  * ✅ ask yourself would you use this question on a real developer/software engineer interview? If answer is "Yes" then go for it!
+  * ✅ ask yourself would you use this question on a real Agile Coach/Acrum Master/Project Manager interview? If answer is "Yes" then go for it!
 
 # Where To Find/Source Good Interview Questions
 
@@ -62,31 +61,22 @@ Remember, **you don't need to reinvent an interview question and the answer by y
 There is just a fraction of quality resources you can do you research on:
 
 * stackoverflow.com - 💡 **Hint**: sort questions by Score (or Votes) in search
+* pm.stackexchange.com/
 * github repositories (with many stars, not forks)
 * gitbooks.io
-* hackernoon.com
-* hackr.io
-* codeburst.io
-* freecodecamp.org
-* medium.com
-* dev.com
-* dzone.com
-* docs.oracle.com
-* docs.docker.com
-* developers.google.com
-* dart.dev
-* brilliant.org
-* blogs.msdn.microsoft.com
-* blog.logrocket.com
 * atlassian.com
-* coderbyte.com
+* monday.com/blog
+* www.pmi.org/
+* age-of-product.com/
+* pmhut.com/
+* thetaoofpm.blogspot.com/
 * etc...
 
 💡 **Hint**: Don't blindly copy all answers from one source for the same topic. Try to find at least 2-3 source of the information and choose the best explanation **you like most**.
 
-💡**Hint**: Search Github for programming interview questions repos that other people did. Usually they already formatted as Markdown and can get you great amount of QAS for the topic
+💡**Hint**: Search Github for pm interview questions repos that other people did. Usually they already formatted as Markdown and can get you great amount of QAS for the topic
 
-💡**Hint**: When research on some topic look at the `Table of Content` in your favorite programming book to get a sense on what subtopics you can cover. Most of the Coursera and Udemy courses will work too!
+💡**Hint**: When research on some topic look at the `Table of Content` in your favorite project management book to get a sense on what subtopics you can cover. Most of the Coursera and Udemy courses will work too!
 
 # Resources to AVOID
 

@@ -8,7 +8,7 @@ Please read this document carefully before submitting your PMSC candidate challe
 
 * Carefully read the `README.md`
 * **Fork** this repository
-* Create the `Scrum_youremail.md` Markdown file in the forked repo and add **`3` questions and answers (QAS) relevant to _Scrum topic_ that you would ask on a real interview** if you need to hire a Senior **Scrum Master** for your own team. Add QAS formatted as Markdown into the `Scrum_youremail.md` file.
+* Create the `Kanban_youremail.md` Markdown file in the forked repo and add **`3` questions and answers (QAS) relevant to _Kanban_ topic that you would ask on a real PM interview** if you need to hire a Senior **Scrum Master/Project Manager** for your own team. Add QAS formatted as Markdown into the `Kanban_youremail.md` file.
 * All content must be formatted as valid Markdown (see examples below).
 * Make sure you'll add:
   * one **Junior** question for **Junior** position
@@ -30,15 +30,15 @@ Please read this document carefully before submitting your PMSC candidate challe
 When choosing a good interview question follow these rules:
 
 * The QA should not be too **broad** or too **obvious/trivial**, like:
-  * 🚫 `What is Scrum?`
-  * 🚫 What does a scrum master do all day?
+  * 🚫 What is `Scrum`?
+  * 🚫 What does a Scrum Master do all day?
 * The QA should be **opened** and invite the candidate for a conversation rather than strictly test his/her/their specific knowledge. Compare:
-  * 🚫 What is `sprint` in Scrum?
-  * ✅ Provide some ways to fit _bug fixing_ into a Scrum process
+  * 🚫 What is `Sprint` in Scrum?
+  * ✅ Provide some ways to fit _bug fixing_ into a Scrum process. How would you fit it on an `Kanban Board`?
   * ✅ What is the difference between _Sprint_ and _Iteration_ in Scrum and _length_ of each Sprint?
 * Keep the answers **short**, **succinct** and **informative**. If you feel your answer is growing in size and covers different topics the split it!
 * Avoid  highly practical questions like
-  * 🚫 How best to do Agile Development MS Project? - we won't accept that type of questions
+  * 🚫 How best to do Agile Development in MS Project? - we won't accept that type of questions
 * Don't submit behavioral questions like:
   * 🚫 Describe your strengths and weakness, and so on
 * Use that that types of questions:
@@ -61,15 +61,15 @@ Remember, **you don't need to reinvent an interview question and the answer by y
 There is just a fraction of quality resources you can do you research on:
 
 * stackoverflow.com - 💡 **Hint**: sort questions by Score (or Votes) in search
-* pm.stackexchange.com/
+* pm.stackexchange.com
 * github repositories (with many stars, not forks)
 * gitbooks.io
 * atlassian.com
-* monday.com/blog
-* www.pmi.org/
-* age-of-product.com/
-* pmhut.com/
-* thetaoofpm.blogspot.com/
+* monday.com
+* pmi.org
+* age-of-product.com
+* pmhut.com
+* thetaoofpm.blogspot.com
 * etc...
 
 💡 **Hint**: Don't blindly copy all answers from one source for the same topic. Try to find at least 2-3 source of the information and choose the best explanation **you like most**.
@@ -100,7 +100,7 @@ All interview questions must be formatted using those rules:
 * **Do** include formatting in the QA title
 * **Do** format the code (see samples)
 
-See some examples of QA formatting below. Note how to format **list**, **code**, **file names**, **terms**, **links**, QA **difficulties**, **images** and so on. To see more QA formatting examples go to [www.fullstack.cafe](https://www.fullstack.cafe) and explore our QAs library.
+See some examples of QA formatting below. Note how to format **list**, **code**, **file names**, **terms**, **links**, QA **difficulties**, **images** and so on. To see more QA formatting examples go to [www.fullstack.cafe](https://www.fullstack.cafe) and explore this QAs library.
 
 ---
 
@@ -197,4 +197,4 @@ There are some awesome tools that will greatly help you along the way of content
 
 # I'm In! What's Next?
 
-Great! Once getting your pull request we'll verify the content and circle back to you in no time. Then we schedule a Google Meet call and discuss your first FSC topic to work on :)
+Great! Once getting your pull request we'll verify the content and circle back to you in no time. Then we schedule a Google Meet call and discuss your first PMSC topic to work on :)

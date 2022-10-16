@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/13550565/152297029-160a235d-81f0-4cbb-99cd-d9603e3bb191.png)
+![](https://user-images.githubusercontent.com/13550565/196062250-a0ba57d3-a388-466f-91d4-949f2067e7a4.png)
 
 # Welcome to FullStack.Cafe Candidates Repo
 

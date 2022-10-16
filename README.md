@@ -104,13 +104,13 @@ See some examples of QA formatting below. Note how to format **list**, **code**,
 
 ---
 
-## Q: Why to use `lock` statement in C#?
+## Q: Name some _Core Properties_ of Kanban 
 
-**Difficulty:** `Junior`
+**Difficulty:** `Mid`
 
 **Source:**
 
-https://stackoverflow.com/questions/6029804/how-does-lock-work-exactly
+https://pm.stackexchange.com/questions/3305/what-is-kanban
 
 **Details**:
 
@@ -118,24 +118,17 @@ Provide some code example.
 
 **Answer:**
 
-The `lock` keyword ensures that one thread _does not enter a critical section of code_ while another thread is in the critical section. If another thread tries to enter a locked code, it will wait, block, until the object is released.
+There are _Core Properties_ of Kanban:
 
-The `lock` keyword calls [`Enter`](http://msdn.microsoft.com/en-us/library/system.threading.monitor.enter.aspx) at the start of the block and [`Exit`](http://msdn.microsoft.com/en-us/library/system.threading.monitor.exit.aspx) at the end of the block. `lock` keyword actually handles [`Monitor`](http://msdn.microsoft.com/en-us/library/System.Threading.Monitor%28v=vs.110%29.aspx) class at back end.
-
-For example:
-
-```cs
-private static readonly Object obj = new Object();
-
-lock (obj)
-{
-  // critical section
-}
-```
+* **Visualize the Workflow** - Visualise what's actually happening, rather than what you want to happen (so represent reality over the ideal)
+* **Limit work in Progress** - Get people to help finish existing work in progress rather than starting new work
+* **Manage the Flow** - Work out what slows you down and how to get feedback faster
+* **Make Process Policies Explicit** - If you see something that isn't represented by your visualisaton, and it's part of implicit process, make it part of what you visualise. The team can't improve what the team can't see.
+* **Improve Collaboratively** - Use visual models & the scientific methods
 
 ---
 
-## Q: What is the difference between `INNER JOIN` and `OUTER JOIN`?
+## Q: What are some differences between _Scrumban_ and _Kanban_?
 
 **Difficulty**: `Junior`
 

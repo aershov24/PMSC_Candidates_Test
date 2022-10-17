@@ -21,7 +21,7 @@ Please read this document carefully before submitting your PMSC candidate challe
   * **Answer** (required)
   * Link(s) to **Source**s (you don't need to write answer by yourself, just combine and research best sources that are available)
   * QA **Difficulty** Level. Use that Difficulty enum: [`junior`, `mid`, `senior`]
-* Look at the `QAS_Examples.md` file in this repo for examples of QAS file formatting in Markdown. Use this file as a template for your submission. Please strictly follow these formatting conventions. This is **the key** to pass the challenge ;)
+* Look at the [`QAS_Examples.md`](https://github.com/aershov24/PMSC_Candidates_Test/blob/main/QAS_Examples.md) file in this repo for examples of QAS file formatting in Markdown. Use this file as a template for your submission. Please strictly follow these formatting conventions. This is **the key** to pass the challenge ;)
 * Create a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) from your repo into the PMSC Candidates repo. Name the PR as `SCRUM | youremail`. PRs with different names will be rejected.
 * Send us email or DM us on UpWork when you happy us to verify it
 

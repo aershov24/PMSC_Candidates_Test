@@ -11,16 +11,16 @@ Please read this document carefully before submitting your PMSC candidate challe
 * Create the `Kanban_youremail.md` Markdown file in the forked repo and add **`3` questions and answers (QAS) relevant to _Kanban_ topic that you would ask on a real PM interview** if you need to hire a Senior **Scrum Master/Project Manager** for your own team. Add QAS formatted as Markdown into the `Kanban_youremail.md` file.
 * All content must be formatted as valid Markdown (see examples below).
 * Make sure you'll add:
-  * one **Junior** question for **Junior** position
-  * one **Medium** difficulty question for **Mid** position, and
-  * one **Senior** question for **Senior** position
+  * one **Basic** simple dificulty question
+  * one **Medium** difficulty question for **Mid** positions, and
+  * one **Senior** question for **Senior** positions
 
 * Make sure that for all QAs you'll include:
   * Question **Title**
   * Question **Description** (optional)
   * **Answer** (required)
   * Link(s) to **Source**s (you don't need to write answer by yourself, just combine and research best sources that are available)
-  * QA **Difficulty** Level. Use that Difficulty enum: [`entry`, `junior`, `mid`, `senior`, `expert`]
+  * QA **Difficulty** Level. Use that Difficulty enum: [`basic`, `mid`, `senior`]
 * Look at the `QAS_Examples.md` file in this repo for examples of QAS file formatting in Markdown. Use this file as a template for your submission. Please strictly follow these formatting conventions. This is **the key** to pass the challenge ;)
 * Create a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) from your repo into the PMSC Candidates repo. Name the PR as `SCRUM | youremail`. PRs with different names will be rejected.
 * Send us email or DM us on UpWork when you happy us to verify it

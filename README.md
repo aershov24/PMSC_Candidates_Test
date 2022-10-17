@@ -8,7 +8,7 @@ Please read this document carefully before submitting your PMSC candidate challe
 
 * Carefully read the `README.md`
 * **Fork** this repository
-* Create the `Kanban_youremail.md` Markdown file in the forked repo and add **`3` questions and answers (QAS) relevant to _Kanban_ topic that you would ask on a real PM interview** if you need to hire a real **Scrum Master/Project Manager** for your own team. Add QAS formatted as Markdown into the `Kanban_youremail.md` file.
+* > Create the `Kanban_youremail.md` Markdown file in the forked repo and add **`3` questions and answers (QAS) relevant to _Kanban_ topic that you would ask on a real PM interview** if you need to hire a real **Scrum Master/Project Manager** for your own team. Add QAS formatted as Markdown into the `Kanban_youremail.md` file.
 * All content must be formatted as valid Markdown (see examples below).
 * Make sure you'll add:
   * one **Junior** difficulty question (simple questions to test basic knowledge) 
@@ -25,7 +25,7 @@ Please read this document carefully before submitting your PMSC candidate challe
 * Create a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) from your repo into the PMSC Candidates repo. Name the PR as `SCRUM | youremail`. PRs with different names will be rejected.
 * Send us email or DM us on UpWork when you happy us to verify it
 
-# How To Choose/Write Good Interview Questions
+# How To Choose/Write Good Interview Questions?
 
 When choosing a good interview question follow these rules:
 
@@ -54,7 +54,7 @@ When choosing a good interview question follow these rules:
 * The best **rule of thumb** to follow is
   * ✅ ask yourself would you use this question on a real Agile Coach/Acrum Master/Project Manager interview? If answer is "Yes" then go for it!
 
-# Where To Find/Source Good Interview Questions
+# Where To Find/Source Good Interview Questions?
 
 Remember, **you don't need to reinvent an interview question and the answer by yourself**. Your task is to research the best sources that are available on the Internet (blog posts, books, videos, tutorials), _combine_, _convert_ and (sometimes) _reformat_ that existing knowledge into the answer.
 
@@ -106,13 +106,13 @@ See some examples of QA formatting below. Note how to format **list**, **code**,
 
 ---
 
-## Q: Name the _Core Properties_ of Kanban 
+## Q1: Name the _Core Properties_ of Kanban 
 
 **Difficulty:** `Mid`
 
 **Source:**
 
-https://pm.stackexchange.com/questions/3305/what-is-kanban
+https://teamhood.com/kanban-resources/kanban-principles/
 
 **Answer:**
 
@@ -126,7 +126,7 @@ There are the _Core Properties_ of Kanban:
 
 ---
 
-## Q: How do you deal with _bugs_ or mistakes in Kanban? Would you move items back on a board?
+## Q2: How do you deal with _bugs_ or mistakes in Kanban? Would you move items back on a board?
 
 **Difficulty**: `Senior`
 

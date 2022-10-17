@@ -8,7 +8,7 @@ Please read this document carefully before submitting your PMSC candidate challe
 
 * Carefully read the `README.md`
 * **Fork** this repository
-* Create the `Kanban_youremail.md` Markdown file in the forked repo and add **`3` questions and answers (QAS) relevant to _Kanban_ topic that you would ask on a real PM interview** if you need to hire a Senior **Scrum Master/Project Manager** for your own team. Add QAS formatted as Markdown into the `Kanban_youremail.md` file.
+* Create the `Kanban_youremail.md` Markdown file in the forked repo and add **`3` questions and answers (QAS) relevant to _Kanban_ topic that you would ask on a real PM interview** if you need to hire a real **Scrum Master/Project Manager** for your own team. Add QAS formatted as Markdown into the `Kanban_youremail.md` file.
 * All content must be formatted as valid Markdown (see examples below).
 * Make sure you'll add:
   * one **Junior** difficulty question (simple questions to test basic knowledge) 

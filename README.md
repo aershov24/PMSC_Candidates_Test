@@ -106,7 +106,7 @@ See some examples of QA formatting below. Note how to format **list**, **code**,
 
 ---
 
-## Q: Name some _Core Properties_ of Kanban 
+## Q: Name the _Core Properties_ of Kanban 
 
 **Difficulty:** `Mid`
 
@@ -116,7 +116,7 @@ https://pm.stackexchange.com/questions/3305/what-is-kanban
 
 **Answer:**
 
-There are _Core Properties_ of Kanban:
+There are the _Core Properties_ of Kanban:
 
 * **Visualize the workflow** - Visualise what's actually happening, rather than what you want to happen (so represent reality over the ideal)
 * **Limit Work in Progress (WIP)** - WIP Limits force the team to help finish existing work in progress rather than starting new work (bug fixing for the feature in QA, rather than starting a new feature development). This enables a new work is only ‘pulled’ in when there is enough capacity to handle it.
@@ -126,7 +126,7 @@ There are _Core Properties_ of Kanban:
 
 ---
 
-## Q: How do you deal with bugs or mistakes in Kanban? Would you move items back?
+## Q: How do you deal with _bugs_ or mistakes in Kanban? Would you move items back on a board?
 
 **Difficulty**: `Senior`
 

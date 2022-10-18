@@ -24,7 +24,7 @@ After the approval, it can be implemented.
 
 ---
 
-## Q2: Mark wants to use his team's Kanban board to focus only on cycle time in his project. What should he adjust on the Kanban board?
+## Q2: Mark wants to use his team's Kanban board to focus only on _cycle time_ in his project. What should he adjust on the Kanban board?
 
 **Difficulty**: `Mid`
 

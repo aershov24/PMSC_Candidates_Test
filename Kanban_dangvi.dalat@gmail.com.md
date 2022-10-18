@@ -39,7 +39,7 @@ _Cycle time_ in a user story is focused just on the **coding** and **testing** o
 
 ---
 
-## Q3: How Kanban can be applied at the Program and Portfolio Level?
+## Q3: How Kanban can be applied at the _Program_ and _Portfolio_ Level?
 
 **Difficulty**: `Senior`
 

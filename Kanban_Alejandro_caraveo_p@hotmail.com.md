@@ -6,7 +6,7 @@
 
 ---
 
-## Q1: _Visualize_ is one of the core practices on *Kanban*, why is it so important? 
+## Q1: _Visualize_ is one of the core practices in *Kanban*, why is it so important? 
 
 **Difficulty:** `Mid`
 

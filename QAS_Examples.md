@@ -50,3 +50,50 @@ Other options to consider might be:
 * You may **"park" features** which didn't pass testing. You may have dedicated subcolumn where you put such features so everyone knows that they require bug-fixing.
 * You may just **visualize status of testing**, e.g. testing started, testing passed, testing failed, with additional visual signal and keep the index cards in QA column.
 * You may **deal with bugs using additional information radiator**, usually not a full-blown Kanban board. Then, again, you keep the index cards in QA stage but you deal with bugs independently.
+
+---
+
+## Q3: What is the difference between _DMAIC_ and _DMADV_ in Six Sigma?
+
+**Difficulty:** `Junior`
+
+**Source:**
+
+https://www.vinsys.com/blog/strategic-difference-between-dmaic-and-dmadv/#:~:text=With%20regard%20to%20measurement%2C%20DMAIC,model%20to%20meet%20customer%20requirements
+
+**Answer:**
+
+* **DMAIC** stands for: Define, Measure, Analyze, Improve, Control
+* **DMADV** stands for: Define, Measure, Analyze, Design, Verify
+
+Despite the first three shared letters of their names, there are some notable differences:
+* **DMAIC** typically defines a business process and how it applies; **DMADV** defines customer needs as they relate to a service or product.
+* **DMAIC** measures the current performance of a process, while **DMADV** measures customer specifications and needs.
+* **DMAIC** focuses on making improvements to a business process to reduce or eliminate defects. **DMADV** develops an appropriate business model to meet customer requirements.
+
+![](https://keydifferences.com/wp-content/uploads/2022/03/flow-chart.jpg)
+
+---
+
+## Q4: What is the role of the _1.5 Sigma Shift_?
+
+**Difficulty**: `Senior`
+
+**Source:**
+https://www.qualitydigest.com/inside/six-sigma-column/15-sigma-shift-explained-040406.html
+
+**Answer:**
+
+Experience has shown that processes usually do not perform as well in the _long term_ as they do in the short term. As a result, the number of sigmas that will fit between the process mean and the nearest specification limit (SL) may well drop over time, compared to an initial short-term study. To account for this real-life increase in _process variation_ over time, an _empirically_ based 1.5 sigma shift is introduced into the calculation.
+
+According to this idea, a process that fits 6 sigma between the process mean and the nearest specification limit in a short-term study will in the long term fit only 4.5 sigma – either because the process mean will move over time, or because the long-term standard deviation of the process will be greater than that observed in the short term, or both.
+
+**NOTE**: With the introduction of the 1.5 Sigma Shift the "6 sigma" process will have long-term defect rates corresponding to 4.5 sigma performance rather than actual 6 sigma performance.
+
+In practice, the 1.5 sigma shift results in the generally accepted six sigma value of **3.4 defects per million** opportunities:
+
+![https://www.allaboutlean.com/wp-content/uploads/2014/03/SixSigmaNormalDistributionWithShift.png](https://www.allaboutlean.com/wp-content/uploads/2014/03/SixSigmaNormalDistributionWithShift.png)
+
+_Ignoring_ the 1.5 sigma shift results in a six sigma value of **2 defects per billion** opportunities:
+
+![https://www.allaboutlean.com/wp-content/uploads/2014/03/SixSigmaNormalDistribution.png](https://www.allaboutlean.com/wp-content/uploads/2014/03/SixSigmaNormalDistribution.png)

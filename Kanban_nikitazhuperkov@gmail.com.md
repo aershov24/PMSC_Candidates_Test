@@ -34,7 +34,7 @@ The four mandatory flow measures to track are:
 
 **Source:**
 
-https://www.visual-paradigm.com/scrum/definition-of-done-vs-acceptance-criteria/#:~:text=Definition%20of%20Done%20(DoD)%C2%A0is%20a%20list%20of%20requirements%20that%20a%20user%20story%20must%20adhere%20to%20for%20the%20team%20to%20call%20it%20complete.%C2%A0While%20the%C2%A0Acceptance%20Criteria%C2%A0of%20a%20User%20Story%20consist%20of%20set%20of%20Test%20Scenarios%20that%20are%20to%20be%20met%20to%20confirm%20that%20the%20software%20is%20working%20as%20expected.
+https://www.visual-paradigm.com/scrum/definition-of-done-vs-acceptance-criteria/#:~:text=VS%20ACCEPTANCE%20CRITERIA-,Definition%20of%20Done%20vs%20Acceptance%20Criteria,-Definition%20of%20Done
 
 **Answer:**
 
@@ -48,7 +48,6 @@ In other words, Both DoD and Acceptance Criteria must be met in order to complet
 
 ---
 
-
 ## Q3: How to build Continuous Delivery Pipeline with DevOps in SAFe 5.1?
 
 **Difficulty:** `Senior`
@@ -59,7 +58,7 @@ https://www.scaledagileframework.com/continuous-delivery-pipeline/#:~:text=The%2
 
 **Answer:**
 
-The SAFe continuous delivery pipeline contains four aspects: continuous exploration, continuous integration, continuous deployment, and release on demand. The CDP enables organizations to map their current pipeline into a new structure and then use relentless improvement to deliver value to customers. Feedback loops that exist internally within and between the aspects, and externally between the customers and the enterprise, fuel improvements. Internal feedback loops often center on process improvements, while external feedback often centers on solution improvements. Collectively, the improvements create synergy in ensuring the enterprise is ‘building the right thing, the right way’ and delivering value to the market frequently.
+The **SAFe continuous delivery pipeline** contains four aspects: *continuous exploration*, *continuous integration*, *continuous deployment*, and *release on demand*. The CDP enables organizations to map their current pipeline into a new structure and then use relentless improvement to deliver value to customers. Feedback loops that exist internally within and between the aspects, and externally between the customers and the enterprise, fuel improvements. Internal feedback loops often center on process improvements, while external feedback often centers on solution improvements. Collectively, the improvements create synergy in ensuring the enterprise is ‘building the right thing, the right way’ and delivering value to the market frequently.
 
 ![](https://stagingv5.wpenginepowered.com/wp-content/uploads/2021/02/CDP_F01_WEB-3.png)
 

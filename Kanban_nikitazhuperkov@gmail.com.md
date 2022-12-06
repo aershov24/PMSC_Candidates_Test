@@ -64,9 +64,9 @@ https://www.scaledagileframework.com/continuous-delivery-pipeline/#:~:text=The%2
 
 The SAFe continuous delivery pipeline contains four aspects: continuous exploration, continuous integration, continuous deployment, and release on demand. The CDP enables organizations to map their current pipeline into a new structure and then use relentless improvement to deliver value to customers. Feedback loops that exist internally within and between the aspects, and externally between the customers and the enterprise, fuel improvements. Internal feedback loops often center on process improvements, while external feedback often centers on solution improvements. Collectively, the improvements create synergy in ensuring the enterprise is ‘building the right thing, the right way’ and delivering value to the market frequently.
 
+![](https://stagingv5.wpenginepowered.com/wp-content/uploads/2021/02/CDP_F01_WEB-3.png)
 
-
-**NOTE**: The paragraphs below describe each aspect.
+**NOTE**: A shorter version that I used to remember key points.
 
 **Continuous Exploration** - Understand Customer needs - Hypothesize, Collaborate & Research, Architect, Synthesize
 

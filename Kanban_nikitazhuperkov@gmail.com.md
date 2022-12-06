@@ -6,7 +6,7 @@
 
 ---
 
-## Q1: List all Scrum Artifacts that you know and their commitments
+## Q1: List all Scrum Artifacts and their commitments.
 
 **Difficulty:** `Junior`
 
@@ -16,11 +16,11 @@ https://scrumguides.org/scrum-guide.html#scrum-artifacts:~:text=is%20usually%20s
 
 **Answer:**
 
-For the Product Backlog it is the Product Goal.
+* For the Product Backlog it is the Product Goal.
 
-For the Sprint Backlog it is the Sprint Goal.
+* For the Sprint Backlog it is the Sprint Goal.
 
-For the Increment it is the Definition of Done.
+* For the Increment it is the Definition of Done.
 
 ---
 
@@ -40,7 +40,7 @@ The difference between these two is that the DoD is common for all the User Stor
 
 In other words, Both DoD and Acceptance Criteria must be met in order to complete the User Story.  The Product Increment is not considered to be complete, unless both these two lists are done. Thus, we need to define two aspects of the Definition of Done (DOD) – Completion Criteria and Acceptance Criteria:
 
-![_] https://www.visual-paradigm.com/servlet/editor-content/scrum/definition-of-done-vs-acceptance-criteria/sites/7/2018/11/definition-of-done-vs-acceptance-criteria.png
+![https://www.visual-paradigm.com/servlet/editor-content/scrum/definition-of-done-vs-acceptance-criteria/sites/7/2018/11/definition-of-done-vs-acceptance-criteria.png]
 
 ---
 
@@ -58,7 +58,7 @@ In other words, Both DoD and Acceptance Criteria must be met in order to complet
 
 **Source:**
 
-https://scrumguides.org/scrum-guide.html#scrum-artifacts:~:text=is%20usually%20shorter.-,Scrum%20Artifacts,and%20the%20Scrum%20values%20for%20the%20Scrum%20Team%20and%20their%20stakeholders.,-Product%20Backlog
+https://www.scaledagileframework.com/continuous-delivery-pipeline/#:~:text=The%20Four%20Aspects,long%20after%20release.
 
 **Answer:**
 

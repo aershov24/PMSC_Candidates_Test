@@ -40,7 +40,7 @@ The difference between these two is that the DoD is common for all the User Stor
 
 In other words, Both DoD and Acceptance Criteria must be met in order to complete the User Story.  The Product Increment is not considered to be complete, unless both these two lists are done. Thus, we need to define two aspects of the Definition of Done (DOD) – Completion Criteria and Acceptance Criteria:
 
-![https://www.visual-paradigm.com/servlet/editor-content/scrum/definition-of-done-vs-acceptance-criteria/sites/7/2018/11/definition-of-done-vs-acceptance-criteria.png]
+![](https://www.visual-paradigm.com/servlet/editor-content/scrum/definition-of-done-vs-acceptance-criteria/sites/7/2018/11/definition-of-done-vs-acceptance-criteria.png)
 
 ---
 
@@ -64,11 +64,16 @@ https://www.scaledagileframework.com/continuous-delivery-pipeline/#:~:text=The%2
 
 The SAFe continuous delivery pipeline contains four aspects: continuous exploration, continuous integration, continuous deployment, and release on demand. The CDP enables organizations to map their current pipeline into a new structure and then use relentless improvement to deliver value to customers. Feedback loops that exist internally within and between the aspects, and externally between the customers and the enterprise, fuel improvements. Internal feedback loops often center on process improvements, while external feedback often centers on solution improvements. Collectively, the improvements create synergy in ensuring the enterprise is ‘building the right thing, the right way’ and delivering value to the market frequently.
 
+
+
 **NOTE**: The paragraphs below describe each aspect.
 
 **Continuous Exploration** - Understand Customer needs - Hypothesize, Collaborate & Research, Architect, Synthesize
+
 **Continuous Integration** – A critical technical practice of the ART - Develop, Build, Test End-to-End, Stage
+
 **Continuous Deployment** – Getting to production early - Deploy, Verify, Monitor, Respond - Deploy to Staging every Iteration, Automate deployment, Automate testing of features and NFRs, Decouple deployment from release
+
 **Release on Demand** - Release, Stabilize, Measure, Learn
 
 ---

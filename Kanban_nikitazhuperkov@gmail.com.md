@@ -18,7 +18,7 @@ https://kanbanguides.org/english/#:~:text=The%20four%20mandatory,work%20item%20f
 
 The four mandatory flow measures to track are:
 
-* WIP: The number of work items started but not finished.
+* WIP (Work In Progress): The number of work items started but not finished.
 
 * Throughput: The number of work items finished per unit of time. Note the measurement of throughput is the exact count of work items.
 
@@ -65,12 +65,12 @@ The SAFe continuous delivery pipeline contains four aspects: continuous explorat
 
 **NOTE**: A shorter version that I used to remember key points.
 
-**Continuous Exploration** - Understand Customer needs - Hypothesize, Collaborate & Research, Architect, Synthesize
+*Continuous Exploration* - Understand Customer needs - Hypothesize, Collaborate & Research, Architect, Synthesize;
 
-**Continuous Integration** – A critical technical practice of the ART - Develop, Build, Test End-to-End, Stage
+*Continuous Integration* – A critical technical practice of the ART - Develop, Build, Test End-to-End, Stage;
 
-**Continuous Deployment** – Getting to production early - Deploy, Verify, Monitor, Respond - Deploy to Staging every Iteration, Automate deployment, Automate testing of features and NFRs, Decouple deployment from release
+*Continuous Deployment* – Getting to production early - Deploy, Verify, Monitor, Respond - Deploy to Staging every Iteration, Automate deployment, Automate testing of features and NFRs, Decouple deployment from release;
 
-**Release on Demand** - Release, Stabilize, Measure, Learn
+*Release on Demand* - Release, Stabilize, Measure, Learn.
 
 ---

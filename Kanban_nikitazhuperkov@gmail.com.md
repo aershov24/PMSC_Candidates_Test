@@ -1,32 +1,36 @@
-# Topic: Scrum
+# Topic: Kanban
 
 **Author**: Nick Zhuperkov
 
-**QAs Total**: 2
+**QAs Total**: 3
 
 ---
 
-## Q1: List all Scrum Artifacts and their commitments.
+## Q1: Name Basic Metrics that are used in Kanban.
 
 **Difficulty:** `Junior`
 
 **Source:**
 
-https://scrumguides.org/scrum-guide.html#scrum-artifacts:~:text=is%20usually%20shorter.-,Scrum%20Artifacts,and%20the%20Scrum%20values%20for%20the%20Scrum%20Team%20and%20their%20stakeholders.,-Product%20Backlog
+https://kanbanguides.org/english/#:~:text=The%20four%20mandatory,work%20item%20finished.
 
 **Answer:**
 
-* For the Product Backlog it is the Product Goal.
+The four mandatory flow measures to track are:
 
-* For the Sprint Backlog it is the Sprint Goal.
+* WIP: The number of work items started but not finished.
 
-* For the Increment it is the Definition of Done.
+* Throughput: The number of work items finished per unit of time. Note the measurement of throughput is the exact count of work items.
+
+* Work Item Age: The amount of elapsed time between when a work item started and the current time.
+
+* Cycle Time: The amount of elapsed time between when a work item started and when a work item finished.
 
 ---
 
 ## Q2: What is the difference between Acceptance Criteria and DoD (Definition of Done)?
 
-**Difficulty:** `Mid`
+**Difficulty:** `Middle`
 
 **Source:**
 
@@ -44,15 +48,8 @@ In other words, Both DoD and Acceptance Criteria must be met in order to complet
 
 ---
 
-# Topic: SAFe 5.1
 
-**Author**: Nick Zhuperkov
-
-**QAs Total**: 1
-
----
-
-## Q1: How to build Continuous Delivery Pipeline with DevOps in SAFe 5.1?
+## Q3: How to build Continuous Delivery Pipeline with DevOps in SAFe 5.1?
 
 **Difficulty:** `Senior`
 

@@ -1,8 +1,8 @@
 # Topic: Kanban
 
-**Author**: Alex Smith
+**Author**: Ikram Laaroussi
 
-**QAs Total**: 2
+**QAs Total**: 3
 
 ---
 

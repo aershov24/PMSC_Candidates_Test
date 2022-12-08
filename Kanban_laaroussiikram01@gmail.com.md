@@ -16,9 +16,7 @@ https://kanbantool.com/cumulative-flow-diagram
 
 **Answer:**
 
-The Cumulative Flow Diagram (CFD) is an analytical tool to kanban method, it allows teams to visualize their efforts and progress, In addition to correcting there
-
-mistakes since they will be able to counteract bottlenecks observed through the sudden rise or descent withen any band of tasks. 
+The Cumulative Flow Diagram (CFD) is an analytical tool to kanban method, it allows teams to visualize their efforts and progress, In addition to correcting there mistakes since they will be able to counteract bottlenecks observed through the sudden rise or descent withen any band of tasks. 
 
 For example reconsider the size of tasks if the band related to tasks "in progress" getting suddenly very tall.
 

@@ -44,7 +44,7 @@ https://monday.com/blog/project-management/kanban/
 
 **Answer:**
 
-* Kanban is perfect for project management when :
+* Kanban is perfect for project management, it is beneficial to use it in :
 
    1. Projects with incremental changes : 
 
@@ -54,7 +54,12 @@ https://monday.com/blog/project-management/kanban/
 
       A work process where each task is relatively independent is best suited for Kanban
       
-* Kanban must not be used in the opposite of these two cases : Overhauling existing work processes and project where many tasks need interdepartmental collaboration 
+* Kanban must not be used in the opposite of these two cases : 
+
+  1. Overhauling existing work processes (new paradigm)
+  
+  2. Projects where many tasks need interdepartmental collaboration
+   
 
 
 

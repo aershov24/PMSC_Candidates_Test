@@ -34,7 +34,7 @@ https://monday.com/blog/rnd/kanban-vs-scrum-whats-the-difference/
 
 ---
 
-## Q3: When to use Kanban and when to avoid it ?
+## Q3: When to use Kanban and when to avoid it ? give two examples in each case  
 
 **Difficulty:** `Senior`
 
@@ -43,6 +43,22 @@ https://monday.com/blog/rnd/kanban-vs-scrum-whats-the-difference/
 https://monday.com/blog/project-management/kanban/
 
 **Answer:**
+
+* Kanban is perfect for project management when :
+
+   1. Projects with incremental changes : 
+
+      The Kanban system can be adapted to existing workflows rather than overhauling everything.
+
+   2. Limited task dependencies
+
+      A work process where each task is relatively independent is best suited for Kanban
+      
+* Kanban must not be used in the opposite of these two cases : Overhauling existing work processes and project where many tasks need interdepartmental collaboration 
+
+
+
+
 
 
 

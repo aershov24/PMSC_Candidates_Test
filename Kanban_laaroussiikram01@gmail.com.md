@@ -19,13 +19,14 @@ https://www.atlassian.com/fr/agile/kanban/kanban-vs-scrum
 
 ---
 
-## Q2: Kanban vs Scrum, what is the best methodology? 
+## Q2: Kanban vs Scrum, what is the difference? 
 
 **Difficulty:** `Senior`
 
 **Source:**
 
 https://www.atlassian.com/agile/kanban/kanban-vs-scrum#:~:text=Kanban%20helps%20visualize%20your%20work,you%20go%20with%20the%20flow.
+
 https://monday.com/blog/rnd/kanban-vs-scrum-whats-the-difference/
 
 **Answer:**

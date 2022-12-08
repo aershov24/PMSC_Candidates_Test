@@ -12,14 +12,19 @@
 
 **Source:**
 
-https://www.atlassian.com/fr/agile/kanban/kanban-vs-scrum
+https://kanbantool.com/cumulative-flow-diagram
 
 **Answer:**
 
+The Cumulative Flow Diagram (CFD) is an analytical tool to kanban method, it allows teams to visualize their efforts and progress, 
+
+in addition to correct there mistakes as they become able to counteract bottleneck noticed through the sudden rise or descent withen any band of tasks. 
+
+For example reconsider the size of tasks if the band related to tasks "in progress" getting suddenly very tall.
 
 ---
 
-## Q2: Kanban vs Scrum, what is the difference? 
+## Q2: Scrum vs Kanban, mention some of the key differences between them?
 
 **Difficulty:** `Senior`
 
@@ -31,6 +36,11 @@ https://monday.com/blog/rnd/kanban-vs-scrum-whats-the-difference/
 
 **Answer:**
 
+- Kanban provides flexibility in the work, whereas in Scrum, we must strongly respect the rules during each sprint.
+
+- In Scrum, the task structure is designed in such a way that it fits within the iteration, whereas in Kanban, there is no size limit for the task 
+
+- Kanban use visuals to improve work in progress whereas in Scrum , we Learn from our experiences, wins and losses how to continuously improve.
 
 ---
 

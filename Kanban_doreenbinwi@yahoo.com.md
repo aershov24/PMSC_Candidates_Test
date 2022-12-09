@@ -44,7 +44,7 @@ Lead time is the average time it takes for the team to deliver a product to clie
 
 * Cycle time on the other hand focuses just on the production phase of the process. It aims to track and signal any issues in the production process focused only on manufacturing and testing can provide great insights into where your own process is lagging and could be improved. Could also signal that new roadblocks or issues have arisen.
 
-* Lastly using a combinaition of the Kanban metrics allows the team to react to changes and adapt more quickly for example, if the team notices an increase in the cycle time it is safe to assume that the lead time will also grow. Thus, an increase in either of the metrics could signal a new roadblock or issue in the later project phases and a sudden decline could mean tasks are of a smaller size or the process has become more effective.
+* Lastly using a combinaition of the Kanban metrics allows the team to react to changes and adapt more quickly for example, if the team notices an increase in the cycle time it is safe to assume that the lead time will also grow. Thus, an increase in either of the metrics could signal a new roadblock or issue in the later project phases and a sudden decline could mean tasks are of a smaller size or the process has become more effective. How ever for clients with sensitive delivery dates the team can then take action to fast track other processes outside manufacturing. Thus still managing to deliver the end result in a timely manner. More over such efforts could lead to finding and applying completly new ways of optimizing the process.
 
 ---
 

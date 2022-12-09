@@ -38,9 +38,11 @@ https://monday.com/blog/rnd/kanban-vs-scrum-whats-the-difference/
 
 - Kanban provides flexibility in the work, whereas in Scrum, we must strongly respect the rules during each sprint.
 
-- In Scrum, the task structure is designed in such a way that it fits within the iteration, whereas in Kanban, there is no size limit for the task 
+- In Scrum, the task structure is designed in such a way that it fits within the iteration, whereas in Kanban, there is no size limit for 
 
-- Kanban use visuals to improve work in progress whereas in Scrum , we Learn from our experiences, wins and losses how to continuously improve.
+  the task 
+
+- Kanban use visuals to improve work in progress whereas in Scrum, we Learn from our experiences, wins and losses how to continuously improve.
 
 ---
 

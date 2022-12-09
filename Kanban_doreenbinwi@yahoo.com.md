@@ -6,7 +6,7 @@
 
 ---
 
-## Q1: What are some the importance of WIP in kanban ?
+## Q1: What are some of the importance of WIP in kanban ?
 
 **Difficulty:** `mid`
 

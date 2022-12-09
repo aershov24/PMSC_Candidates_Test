@@ -58,6 +58,10 @@ https://www.atlassian.com/agile/kanban/kanban-vs-scrum
 
 **Answer:**
 
+* Kanban is a framework used to implement agile and Devops software development. It requires real-time communication of capacity and full transparency of work. Work items are presented vissually on a Kanban board allowing team members to see the state of every piece of work at anytime.
+
+* scrum is a framework that helps teams work together. It encourages teams to learn through experiences, selforganize while work on a problem and reflect on their wins and losses to continually improve.
+
 Kanban and Scrum are both agile frameworks with notable differences:
 
 * Kanban is a continuous flow while the Scrum cadence is based on regular fixed lengh sprints ( 2 to 4 weeks) .

@@ -19,6 +19,7 @@ https://devmanwalking.com/2018/06/29/the-importance-of-limiting-your-wip/
 **Answer:**
 
 The Cumulative Flow Diagram (CFD) is an analytical tool to kanban method, it allows teams to visualize their efforts and progress, In addition to correcting there mistakes since they will be able to counteract bottlenecks observed through the sudden rise or descent withen any band of tasks. 
+
 For example : reduce the work in progress if the band related to tasks "in progress" getting suddenly very tall.
 
 ![image](https://user-images.githubusercontent.com/29576360/207125996-50f41f7c-49ca-45af-b730-a2409f3100be.png)

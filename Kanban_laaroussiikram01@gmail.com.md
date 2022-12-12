@@ -43,6 +43,8 @@ https://monday.com/blog/rnd/kanban-vs-scrum-whats-the-difference/
 
 **Answer:**
 
+![image](https://user-images.githubusercontent.com/29576360/207138003-54ebef42-6b85-4f9d-9720-5acb8dbffd83.png)
+
 - Kanban provides flexibility in the work, whereas in Scrum, we must strongly respect the rules during each sprint.
 - In Scrum, the task structure is designed in such a way that it fits within the iteration, whereas in Kanban, there is no size limit for the task 
 - Kanban use visuals to improve work in progress whereas in Scrum, we Learn from our experiences, wins and losses how to continuously improve.
@@ -58,8 +60,6 @@ https://monday.com/blog/rnd/kanban-vs-scrum-whats-the-difference/
 https://monday.com/blog/project-management/kanban/
 
 **Answer:**
-
-![image](https://user-images.githubusercontent.com/29576360/207130674-3437ffb8-373b-4114-a1ea-17ac43ceda9d.png)
 
 * Kanban is perfect for project management, it is beneficial to use it in :
 

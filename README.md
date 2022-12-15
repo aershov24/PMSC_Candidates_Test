@@ -52,7 +52,7 @@ When choosing a good interview question follow these rules:
   * ✅ `What is example of Y in real life?`
   * ✅ `Provide an intuitive explanation of X`
 * The best **rule of thumb** to follow is
-  * ✅ ask yourself would you use this question on a real Agile Coach/Acrum Master/Project Manager interview? If answer is "Yes" then go for it!
+  * ✅ ask yourself would you use this question on a real Agile Coach/Scrum Master/Project Manager interview? If answer is "Yes" then go for it!
 
 # Where To Find/Source Good Interview Questions?
 

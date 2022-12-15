@@ -17,9 +17,9 @@ https://www.knowledgehut.com/interview-questions/kanban
 
 **Answer:**
 
-**Kanban** is a Project Management tool that allows you to get a more visual overview of the tasks that either need to get done or are complete.
+**Kanban** is a Project Management tool that allows you to get a **more visual overview** of the tasks that either need to get done or are complete.
 
-At its core, it consists of a physical or digital board with three columns (_To Do, In Progress, Done_) and tasks listed as story cards. Every card will be pulled from left to right until it gets done. Finally, they will leave the workflow.
+At its core, it consists of a physical or _digital board_ with three columns (_To Do, In Progress, Done_) and tasks listed as story cards. Every card will be pulled from left to right until it gets done. Finally, they will leave the workflow.
 
 **With the help of Kanban, we can do the following;**
 * Organize your work into projects
@@ -33,30 +33,23 @@ Its **main goal**? To visualize and maintain the workflow while eliminating wast
 
 ---
 
-## Q2: H?
+## Q2: Explain how you can link a card together in _Kanban_?
 
 **Difficulty**: `Mid`
 
 **Source:**
 
-https://pm.stackexchange.com/questions/3935/kanban-moving-items-back-or-how-do-you-manage-mistakes
+https://www.knowledgehut.com/interview-questions/kanban
+https://kanbantool.com/support/kanban-card/how-can-i-link-cards-together
 
-**Details**:
-
-Given that you have a feature tracking through your Kanban board, the dev marks it done, it's pulled into QA, and the dev pulls in new work. QA fails the item.
-
-Now what? Would you move the item back to the Dev stage? What will you do if you can't move it back into the dev stream as it's full?
 
 **Answer:**
 
-My first advice would be to treat your QA stage as the one **covering both**: _testing_ and _bug fixing_ which basically renders the problem of moving index cards anywhere irrelevant. Developers work in the QA stage (same as testers) when they are fixing production defects. 
+To link card together in _Kanban_, there are two ways:
 
-I won't personally **move cards back** as it just adds a lot of hassle. You can have policies that you can violate limits in such situation but chaos introduced isn't worth the value.
+**You can use tags to link two cards:** First, you have to create cards and have to link cards using the same tag and then you can search all tasks linked using the search option
 
-Other options to consider might be: 
-* You may **"park" features** which didn't pass testing. You may have dedicated subcolumn where you put such features so everyone knows that they require bug-fixing.
-* You may just **visualize status of testing**, e.g. testing started, testing passed, testing failed, with additional visual signal and keep the index cards in QA column.
-* You may **deal with bugs using additional information radiator**, usually not a full-blown Kanban board. Then, again, you keep the index cards in QA stage but you deal with bugs independently.
+**Using unique URL:** Each card in _Kanban_ has unique URL, and you can copy this URL and paste it to another card’s external link fields.
 
 ---
 

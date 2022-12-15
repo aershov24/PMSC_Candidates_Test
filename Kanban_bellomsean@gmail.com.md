@@ -41,6 +41,7 @@ Its **main goal**? To visualize and maintain the workflow while eliminating wast
 
 https://www.knowledgehut.com/interview-questions/kanban
 https://kanbantool.com/support/kanban-card/how-can-i-link-cards-together
+https://hbr.org/2011/03/uniting-the-religions-of-proce
 
 
 **Answer:**
@@ -53,47 +54,30 @@ To link card together in _Kanban_, there are two ways:
 
 ---
 
-## Q3: What is the difference between _DMAIC_ and _DMADV_ in Six Sigma?
+## Q3: How does _Lean_ and _Six Sigma_ differ from each other or are they same or do they complement each other?
 
 **Difficulty:** `Senior`
 
 **Source:**
 
-https://www.vinsys.com/blog/strategic-difference-between-dmaic-and-dmadv/#:~:text=With%20regard%20to%20measurement%2C%20DMAIC,model%20to%20meet%20customer%20requirements
+https://www.knowledgehut.com/interview-questions/kanban
+https://tallyfy.com/lean-vs-six-sigma/
 
 **Answer:**
 
-* **DMAIC** stands for: Define, Measure, Analyze, Improve, Control
-* **DMADV** stands for: Define, Measure, Analyze, Design, Verify
+Even though, both _Lean_ and _Six Sigma_ focus on **waste reduction and improving efficiency**.
 
-Despite the first three shared letters of their names, there are some notable differences:
-* **DMAIC** typically defines a business process and how it applies; **DMADV** defines customer needs as they relate to a service or product.
-* **DMAIC** measures the current performance of a process, while **DMADV** measures customer specifications and needs.
-* **DMAIC** focuses on making improvements to a business process to reduce or eliminate defects. **DMADV** develops an appropriate business model to meet customer requirements.
+The key difference lies in the fact that;
 
-![](https://cfw.paymoapp.com/wp-content/uploads/2020/05/Kanban-method@2x.png)
+* **Six Sigma** is more inclined towards reducing the wastage margin towards `99.9999%`, strives for near perfect results that will reduce costs and achieve higher levels of customer satisfaction.
 
----
+* **Lean** is focused on setting up the right processes, the efficient pipeline, the culture and mindset of waste reduction. Analyzing workflow to reduce cycle time and eliminate waste and strives to maximize value to the customer while using a few resources as possible.
 
-## Q4: What is the role of the _1.5 Sigma Shift_?
+One similarity between _Lean_ vs _Six Sigma_ is that both have demonstrated that it is possible to dramatically improve the quality of your products and customer experience by improving processes. And [as this article points out](https://hbr.org/2011/03/uniting-the-religions-of-proce), when most companies set out to improve inefficient processes they feel like must choose only one method going forward.
 
-**Difficulty**: `Senior`
+Ultimately, the issue may not be whether you should choose _Lean_ vs _Six Sigma_ but how you can take the elements you like from each and apply them to solve problems in your own business.
 
-**Source:**
-https://www.qualitydigest.com/inside/six-sigma-column/15-sigma-shift-explained-040406.html
 
-**Answer:**
+So overall, it can be said that once we have matured _Lean_ production in the organization then _Six Sigma_ can be put on top of it.
 
-Experience has shown that processes usually do not perform as well in the _long term_ as they do in the short term. As a result, the number of sigmas that will fit between the process mean and the nearest specification limit (SL) may well drop over time, compared to an initial short-term study. To account for this real-life increase in _process variation_ over time, an _empirically_ based 1.5 sigma shift is introduced into the calculation.
-
-According to this idea, a process that fits 6 sigma between the process mean and the nearest specification limit in a short-term study will in the long term fit only 4.5 sigma – either because the process mean will move over time, or because the long-term standard deviation of the process will be greater than that observed in the short term, or both.
-
-**NOTE**: With the introduction of the 1.5 Sigma Shift the "6 sigma" process will have long-term defect rates corresponding to 4.5 sigma performance rather than actual 6 sigma performance.
-
-In practice, the 1.5 sigma shift results in the generally accepted six sigma value of **3.4 defects per million** opportunities:
-
-![https://www.allaboutlean.com/wp-content/uploads/2014/03/SixSigmaNormalDistributionWithShift.png](https://www.allaboutlean.com/wp-content/uploads/2014/03/SixSigmaNormalDistributionWithShift.png)
-
-_Ignoring_ the 1.5 sigma shift results in a six sigma value of **2 defects per billion** opportunities:
-
-![https://www.allaboutlean.com/wp-content/uploads/2014/03/SixSigmaNormalDistribution.png](https://www.allaboutlean.com/wp-content/uploads/2014/03/SixSigmaNormalDistribution.png)
+![](https://www.researchgate.net/profile/Dr-Pankaj-Madhani/publication/354447306/figure/fig2/AS:1065779046932480@1631112934284/Lean-and-Six-Sigma-phases-relationship.ppm)

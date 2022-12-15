@@ -6,13 +6,14 @@
 
 ---
 
-## Q1: How is Kanban _useful_ in Project Management?
+## Q1: How is _Kanban_ useful in Project Management?
 
 **Difficulty:** `Junior`
 
 **Source:**
 
 https://www.paymoapp.com/blog/what-is-kanban/
+https://www.knowledgehut.com/interview-questions/kanban
 
 **Answer:**
 
@@ -20,11 +21,11 @@ https://www.paymoapp.com/blog/what-is-kanban/
 
 At its core, it consists of a physical or digital board with three columns (_To Do, In Progress, Done_) and tasks listed as story cards. Every card will be pulled from left to right until it gets done. Finally, they will leave the workflow.
 
-**Kanban rests on three main principles that promote:**
-
-* Workflow visualization
-* Work-in-progress (WIP) limits
-* Workflow measurement
+**With the help of Kanban, we can do the following;**
+* Organize your work into projects
+* Build project teams
+* Invite people to join the team
+* Share and collaborate on work to do- using online Kanban boards
 
 Its **main goal**? To visualize and maintain the workflow while eliminating waste.
 
@@ -32,7 +33,7 @@ Its **main goal**? To visualize and maintain the workflow while eliminating wast
 
 ---
 
-## Q2: How do you deal with _bugs_ or mistakes in Kanban? Would you move items back on a board?
+## Q2: H?
 
 **Difficulty**: `Mid`
 

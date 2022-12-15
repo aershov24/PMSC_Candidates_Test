@@ -32,19 +32,23 @@ WIP means Work In Progress. This is a tool used in kanban to set limits of maxim
 
 **Source:**
 
-https://teamhood.com/kanban-/lead-and-cycletime-kanban-metrics/
+https://teamhood.com/kanban/lead-and-cycle-time-kanban-metrics/
 
 **Answer:**
 
-Lead time is the average time it takes for the team to deliver a product to client from the time it was requested ( appeared in the backlog ). While cycle time is the average time it takes for the team to complete an item from the time they started working in it. They are both metrics that can be used in Kanban as follows:
+* Lead time is the average time it takes for the team to deliver a product to client from the time it was requested ( appeared in the backlog ).
+
+* Cycle time is the average time it takes for the team to complete an item from the time they started working on it.
+
+* So, both of the Kanban metrics are averages calculated from the Kanban throughput. A seperate lead and cycle time is calculated for every task. Then they are added up and divived by the total number of tasks. Depending on what type of a Kanban board team uses, this can be done manually ( incase of a physical task board) or calculated automatically ( if an online Kanban board).
 
 * Calculating the average lead time gives a good idea of the delivery speed and cycle time provides an indication of the team's speed Thus, following both and noting down changes can give you valuable insights into what is happening in your project now and what might be happening in the future.
 
-* Lead time tracks the whole process from the initial request to the product delivery. Meaning you have a good idea of how long the production of an average item is going to take and can give the client a more accurate guess of delivery.
+* Lead time tracks the whole process from the initial request to the product delivery. This includes requirement gathering, analysis, manufacturing, testing and shipment. Meaning you have a good idea of how long the production of an average item is going to take and can give the client a more accurate guess of delivery. For example, if your average product lead time is 2 weeks and you got a complicated order, you can safly say the delivery will take longer. How much longer that depends on your process, but at least you can manage client expectations right out of the gate. 
 
-* Cycle time on the other hand focuses just on the production phase of the process. It aims to track and signal any issues in the production process focused only on manufacturing and testing can provide great insights into where your own process is lagging and could be improved. Could also signal that new roadblocks or issues have arisen.
+* Cycle time on the other hand focuses just on the production phase of the process. It aims to track and signal any issues in the production process. Focused only on manufacturing and testing, it can provide great insights into where your own process is lagging and could be improved. Could also signal that new roadblocks or issues have arisen.
 
-* Lastly using a combinaition of the Kanban metrics allows the team to react to changes and adapt more quickly for example, if the team notices an increase in the cycle time it is safe to assume that the lead time will also grow. Thus, an increase in either of the metrics could signal a new roadblock or issue in the later project phases and a sudden decline could mean tasks are of a smaller size or the process has become more effective. How ever for clients with sensitive delivery dates the team can then take action to fast track other processes outside manufacturing. Thus still managing to deliver the end result in a timely manner. More over such efforts could lead to finding and applying completly new ways of optimizing the process.
+* Lastly using a combinaition of the Kanban metrics allows the team to react to changes and adapt more quickly for example, if the team notices an increase in the cycle time it is safe to assume that the lead time will also grow. Thus an increase in either of the metrics could signal a new roadblock or issue in the later project phases and a sudden decline could mean tasks are of a smaller size or the process has become more effective. However for clients with sensitive delivery dates the team can then take action to fast track other processes outside manufacturing. Thus still managing to deliver the end result in a timely manner. More over such efforts could lead to finding and applying completly new ways of optimizing the process. Lead and cycle time is a greate way to take control with Kanban project management. It gives teams a way to monitor what is happening in the project. Both focus on the averages and give a way of understanding what the client can expect in terms of delivery dates and what the manager can expect in terms of production speed.
 
 ---
 
@@ -60,7 +64,7 @@ https://www.atlassian.com/agile/kanban/kanban-vs-scrum
 
 * Kanban is a framework used to implement agile and Devops software development. It requires real-time communication of capacity and full transparency of work. Work items are presented vissually on a Kanban board allowing team members to see the state of every piece of work at anytime.
 
-* scrum is a framework that helps teams work together. It encourages teams to learn through experiences, selforganize while work on a problem and reflect on their wins and losses to continually improve.
+* Scrum is a framework that helps teams work together. It encourages teams to learn through experiences, selforganize while work on a problem and reflect on their wins and losses to continually improve.
 
 Kanban and Scrum are both agile frameworks with notable differences:
 

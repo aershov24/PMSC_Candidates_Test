@@ -6,23 +6,29 @@
 
 ---
 
-## Q1: Explain difference between a Product__and a __Sprint Backlog 
+## Q1: How is Kanban _useful_ in Project Management?
 
 **Difficulty:** `Junior`
 
 **Source:**
 
-https://teamhood.com/kanban-resources/kanban-principles/
+https://www.paymoapp.com/blog/what-is-kanban/
 
 **Answer:**
 
-There are the _Core Properties_ of Kanban:
+**Kanban** is a Project Management tool that allows you to get a more visual overview of the tasks that either need to get done or are complete.
 
-* **Visualize the workflow** - Visualise what's actually happening, rather than what you want to happen (so represent reality over the ideal)
-* **Limit Work in Progress (WIP)** - WIP Limits force the team to help finish existing work in progress rather than starting new work (bug fixing for the feature in QA, rather than starting a new feature development). This enables a new work is only ‘pulled’ in when there is enough capacity to handle it.
-* **Manage the flow** - Focusing on the flow of tasks through the columns on the board highlights any potential bottlenecks. Work out what slows you down and how to get feedback faster.
-* **Make process policies explicit** - Define, publish, and share your processes and policies. If you see something that isn't represented by your visualisaton, and it's part of implicit process, make it part of what you visualise. The team can't improve what the team can't see.
-* **Improve collaboratively** - Use visual models & the scientific methods like The Theory of Constraints, The Theory of Profound Knowledge, The Lean Economic Model
+At its core, it consists of a physical or digital board with three columns (_To Do, In Progress, Done_) and tasks listed as story cards. Every card will be pulled from left to right until it gets done. Finally, they will leave the workflow.
+
+**Kanban rests on three main principles that promote:**
+
+* Workflow visualization
+* Work-in-progress (WIP) limits
+* Workflow measurement
+
+Its **main goal**? To visualize and maintain the workflow while eliminating waste.
+
+![](https://cfw.paymoapp.com/wp-content/uploads/2020/05/Kanban-method@2x.png)
 
 ---
 
@@ -71,7 +77,7 @@ Despite the first three shared letters of their names, there are some notable di
 * **DMAIC** measures the current performance of a process, while **DMADV** measures customer specifications and needs.
 * **DMAIC** focuses on making improvements to a business process to reduce or eliminate defects. **DMADV** develops an appropriate business model to meet customer requirements.
 
-![](https://keydifferences.com/wp-content/uploads/2022/03/flow-chart.jpg)
+![](https://cfw.paymoapp.com/wp-content/uploads/2020/05/Kanban-method@2x.png)
 
 ---
 

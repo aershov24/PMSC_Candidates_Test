@@ -22,7 +22,7 @@ WIP means Work In Progress. This is a tool used in kanban to set limits of maxim
 
 * Secondly, multitasking is deceptively time intensive. During development its easy to think "oh will pause on this one issue while I begin another" having two issues open means context switching between two different things. Ramping down on one issue and up on another isn't free-it takes time and degrades focus. It's almost always better to work through the original issue rather than starting and not completing new work. In other words, WIP limits discourages us from impeding our own workflow.
 
-* Finlly, WIP limits point out areas of chronic idleness or overload. They help the team see inefficiencies in the entire process rather than just the area in which they work.
+* Finally, WIP limits point out areas of chronic idleness or overload. They help the team see inefficiencies in the entire process rather than just the area in which they work.
 
 ---
 

@@ -33,24 +33,33 @@ Its **main goal**? To visualize and maintain the workflow while eliminating wast
 
 ---
 
-## Q2: Explain how you can link a card together in _Kanban_?
+## Q2: Explain _Value Stream Mapping (VSM)_?
 
 **Difficulty**: `Mid`
 
 **Source:**
 
 https://www.knowledgehut.com/interview-questions/kanban
-https://kanbantool.com/support/kanban-card/how-can-i-link-cards-together
-https://hbr.org/2011/03/uniting-the-religions-of-proce
 
+https://kanbanize.com/lean-management/value-waste/value-stream-mapping
 
 **Answer:**
 
-To link card together in _Kanban_, there are two ways:
+The _Value Stream Mapping_ process allows you to create a **detailed visualization** of all steps in your work process. It is a representation of the flow of goods from the supplier to the customer throughout your organization.
 
-**You can use tags to link two cards:** First, you have to create cards and have to link cards using the same tag and then you can search all tasks linked using the search option
+A lot of time is wasted in the processing pipeline due to hand-offs or waiting for the right resources or allocation. This adds to the overall processing time.
 
-**Using unique URL:** Each card in _Kanban_ has unique URL, and you can copy this URL and paste it to another card’s external link fields.
+So, _Value Stream Mapping_ concept requires you to **create a visual flow of order from a customer at initiation stage to final delivery through all stages**.
+
+It could be requirement gathering, sign-offs, reviews, testing, development, etc. anything that is required to deliver the product to the customer is mentioned in sequence, along with wait times, processing times.
+
+Finally, the authorities review the entire value map and identify areas where the most impact is occurring. This has led to the improvement of processing times across industries such as manufacturing, HR etc. This concept was first used by Toyota.
+
+**History of Value Stream Mapping**
+
+_Value Stream Mapping_ became a popular practice with Lean's rise in the second half of the 20th century. It was one of the foundations that made the Toyota Production System a manufacturing sensation, although, by that time, the term _VSM_ was not present.
+
+![](https://kanbanize.com/wp-content/uploads/website-images/kanban-resources/kanban-board-toyota.PNG)
 
 ---
 

@@ -26,7 +26,7 @@ WIP means Work In Progress. This is a tool used in kanban to set limits of maxim
 
 ---
 
-## Q2:  list four typical kanban classes of service and give a real life example of them.
+## Q2:  List four typical Kanban classes of service and give a real life example of them.
 
 **Difficulty:** `Senior`
 
@@ -36,17 +36,17 @@ https://teamhood.com/kanban-resources/kanban-classes-of-service/
 
 **Answer:**
 
-Kanban classes of service (CoS) are used to classify different types of work based on their priority, urgency or delivery time. All this classes are defined by focusing on the cost of delay (CoD). Which help to measure business impact if something is done later than earlier or first instead. It works as a perfect guiding tool for task prioritization. Below are some typical kanban classes of service.
+Kanban classes of service (CoS) are used to classify different types of work based on their priority, urgency or delivery time. All this classes are defined by focusing on the cost of delay (CoD), which helps to measure business impact if something is done later than earlier or first instead. It works as a perfect guiding tool for task prioritization. Below are some typical Kanban classes of service.
 
 * **Expedite** - Reserved for high urgency high impact items. Cost of delay rises fast over time for such tasks.
 
-* **Fixed deadline** - Dedicated to tasks which have a deadline, such task become important over time and can be ordered based on how close their deadline is. Cost of delay can jump instantly if deadline is missed.
+* **Fixed deadline** - Dedicated to tasks which have a deadline, such tasks become important over time and can be ordered based on how close their deadline is. Cost of delay can jump instantly if deadline is missed.
 
-* **Standard** - Location for all regular tasks ordered by the first in first out (FIFO) principle. Cost of delay grows faster in the early days but then plateaus over time as they have no fixed dates or strict urgency.
+* **Standard** - Location for all regular tasks they should be ordered with first in, first out (FIFO) principle. Cost of delay for such tasks grows faster in the early days but then plateaus over time as they have no fixed date or strict urgency.
 
-* **Intangible** - Made up of tasks that usually do not have a tangible cost of delay example work maintenance. Note that cost of delay can change over time based on new risk or context updates.
+* **Intangible** - Made up of tasks that usually do not have a tangible cost of delay a good example could be maintenance work. Note that cost of delay overtime can change based on new risk or context updates.
 
-A great real life example could be the airport security checkpoints, where there are usually at least few types of lanes - regular lanes, priority lanes for families with kids and disabled people and fast track. By picking your lane you already have some expectations, you know your situation and what can be done about it. If you are late you will pay for fast track, if you are on time and have no issues standing in the queue, you will go for regular lane. Same applies for business processes which throughput work. Kanban systerm is exactly about organizing and executing planned work, while classes of service helps to manage expectation and define structure for process.
+A great real life example for the above Kanban classes of service could be the airport security checkpoints, where there are usually at least few types of lanes - regular lanes, priority lanes for families with kids and disabled people and fast track. By picking your lane you already have some expectations, you know your situation and what can be done about it. If you are late you will pay for fast track, if you are on time and have no issues standing in the queue, you will go for regular lane. Same applies for business processes which throughput work. Kanban systerm is exactly about organizing and executing planned work, while classes of service helps to manage expectation and define structure for process.
 
 ---
 

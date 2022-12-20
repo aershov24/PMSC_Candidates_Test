@@ -46,7 +46,7 @@ Kanban classes of service (CoS) are used to classify different types of work bas
 
 * **Intangible** - Made up of tasks that usually do not have a tangible cost of delay example work maintenance. Note that cost of delay can change over time based on new risk or context updates.
 
-* A great real life example could be the airport security checkpoints, where there are usually at least few types of lanes - regular lanes, priority lanes for families with kids and disabled people and fast track. By picking your lane you already have some expectations, you know your situation and what can be done about it. If you are late you will pay for fast track, if you are on time and have no issues standing in the queue, you will go for regular lane. Same applies for business processes which throughput work. Kanban systerm is exactly about organizing and executing planned work, while classes of service helps to manage expectation and define structure for process.
+A great real life example could be the airport security checkpoints, where there are usually at least few types of lanes - regular lanes, priority lanes for families with kids and disabled people and fast track. By picking your lane you already have some expectations, you know your situation and what can be done about it. If you are late you will pay for fast track, if you are on time and have no issues standing in the queue, you will go for regular lane. Same applies for business processes which throughput work. Kanban systerm is exactly about organizing and executing planned work, while classes of service helps to manage expectation and define structure for process.
 
 ---
 

@@ -18,7 +18,7 @@ https://www.atlanssian.com/agile/kanban/wip-limits
 
 WIP means Work In Progress. This is a tool used in kanban to set limits of maximum work that can exist in each status of workflow. It is a valuable tool to Kanban because:
 
-*  It improves throughput and reduces the amount of work "nearly done", encourages the culture of "done" by forcing the team to focus on a small set of tasks. More importantly WIP makes sure blockers and bottlenecks are visible.Teams can swarm around blocking issues to get them understood, implemented and resolved where there is a clear indicator of what existing work is causing the bottleneck. These bebefits guarantee that increments of value are delivered to customers sooner.
+* It improves throughput and reduces the amount of work "nearly done", encourages the culture of "done" by forcing the team to focus on a small set of tasks. More importantly WIP makes sure blockers and bottlenecks are visible.Teams can swarm around blocking issues to get them understood, implemented and resolved where there is a clear indicator of what existing work is causing the bottleneck. These bebefits guarantee that increments of value are delivered to customers sooner.
 
 * Secondly, multitasking is deceptively time intensive. During development its easy to think "oh will pause on this one issue while I begin another" having two issues open means context switching between two different things. Ramping down on one issue and up on another isn't free-it takes time and degrades focus. It's almost always better to work through the original issue rather than starting and not completing new work. In other words, WIP limits discourages us from impeding our own workflow.
 
@@ -26,27 +26,27 @@ WIP means Work In Progress. This is a tool used in kanban to set limits of maxim
 
 ---
 
-## Q2: What is lead time and cycle time ? How can they be used in Kanban?
+## Q2:  list four typical kanban classes of service and give a real life example of them.
 
 **Difficulty:** `Senior`
 
 **Source:**
 
-https://teamhood.com/kanban/lead-and-cycle-time-kanban-metrics/
+https://teamhood.com/kanban-resources/kanban-classes-of-service/
 
 **Answer:**
 
-* Lead time is the average time it takes for the team to deliver a product to client from the time it was requested ( appeared in the backlog ).
+Kanban classes of service (CoS) are used to classify different types of work based on their priority, urgency or delivery time. All this classes are defined by focusing on the cost of delay (CoD). Which help to measure business impact if something is done later than earlier or first instead. It works as a perfect guiding tool for task prioritization. Below are some typical kanban classes of service.
 
-* Cycle time is the average time it takes for the team to complete an item from the time they started working on it.
+* **Expedite** - Reserved for high urgency high impact items. Cost of delay rises fast over time for such tasks.
 
-* So, both of the Kanban metrics are averages calculated from the Kanban throughput. A seperate lead and cycle time is calculated for every task. Then they are added up and divived by the total number of tasks. Depending on what type of a Kanban board team uses, this can be done manually ( incase of a physical task board) or calculated automatically ( if an online Kanban board).
+* **Fixed deadline** - Dedicated to tasks which have a deadline, such task become important over time and can be ordered based on how close their deadline is. Cost of delay can jump instantly if deadline is missed.
 
-* Calculating the average lead time gives a good idea of the delivery speed. Lead time tracks the whole process from the initial request to the product delivery. This includes requirement gathering, analysis, manufacturing, testing and shipment. Meaning you have a good idea of how long the production of an average item is going to take and can give the client a more accurate guess of delivery. For example, if your average product lead time is 2 weeks and you got a complicated order, you can safly say the delivery will take longer. How much longer that depends on your process, but at least you can manage client expectations right out of the gate. 
+* **Standard** - Location for all regular tasks ordered by the first in first out (FIFO) principle. Cost of delay grows faster in the early days but then plateaus over time as they have no fixed dates or strict urgency.
 
-* Cycle time on the other hand provides an indication of team's speed, focuses just on the production phase of the process. It aims to track and signal any issues in the production process. Focused only on manufacturing and testing, it can provide great insights into where your own process is lagging and could be improved. Could also signal that new roadblocks or issues have arisen.
+* **Intangible** - Made up of tasks that usually do not have a tangible cost of delay example work maintenance. Note that cost of delay can change over time based on new risk or context updates.
 
-* Lastly using a combinaition of the Kanban metrics allows the team to react to changes and adapt more quickly for example, if the team notices an increase in the cycle time it is safe to assume that the lead time will also grow. Thus an increase in either of the metrics could signal a new roadblock or issue in the later project phases and a sudden decline could mean tasks are of a smaller size or the process has become more effective. Lead and cycle time is a greate way to take control with Kanban project management. It gives teams a way to monitor what is happening in the project. Both focus on the averages and give a way of understanding what the client can expect in terms of delivery dates and what the manager can expect in terms of production speed.
+* A great real life example could be the airport security checkpoints, where there are usually at least few types of lanes - regular lanes, priority lanes for families with kids and disabled people and fast track. By picking your lane you already have some expectations, you know your situation and what can be done about it. If you are late you will pay for fast track, if you are on time and have no issues standing in the queue, you will go for regular lane. Same applies for business processes which throughput work. Kanban systerm is exactly about organizing and executing planned work, while classes of service helps to manage expectation and define structure for process.
 
 ---
 
